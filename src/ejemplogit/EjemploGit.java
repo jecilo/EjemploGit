@@ -17,8 +17,8 @@ public class EjemploGit {
     public static void main(String[] args) {
         System.out.println("Hola mundo");
         int i=10;
-        if(i==5){
-            System.out.println("no es 10");
+        if(i==10){
+            System.out.println("es 10");
         }
     }
     
