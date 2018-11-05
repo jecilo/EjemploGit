@@ -18,7 +18,7 @@ public class EjemploGit {
         System.out.println("Hola mundo");
         int i=11;
         if(i==11){
-            System.out.println("es 10");
+            System.out.println("no es 10");
         }
     }
     
